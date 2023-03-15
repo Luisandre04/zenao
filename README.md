@@ -1,2 +1,0 @@
-# zenao
-meu projeto
